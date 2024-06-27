@@ -21,6 +21,7 @@ function BreadCrumps() {
       {crumbs}
     </div>
   );
+  console.log(crumbs);
 }
 
 export default BreadCrumps;
